@@ -1,0 +1,27 @@
+{
+  "name": "ejemplo-expressjs-gitpod",
+  "version": "1.0.0",
+  "description": "ejemplo usando gitpod",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fhernandezpalafox/ejemplo-expressjs-gitpod.git"
+  },
+  "keywords": [
+    "expressjs",
+    "nodejs"
+  ],
+  "author": "felipe Hernandez Palafox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fhernandezpalafox/ejemplo-expressjs-gitpod/issues"
+  },
+  "homepage": "https://github.com/fhernandezpalafox/ejemplo-expressjs-gitpod#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
